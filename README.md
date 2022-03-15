@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# TD SHOE STORE ECOMMERCE BUILD WITH MERN STACK
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see [My Demo](https://tdshoestore.netlify.app).
 
 ## Available Scripts
 
