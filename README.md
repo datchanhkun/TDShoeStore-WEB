@@ -2,6 +2,14 @@
 
 You can see [My Demo](https://tdshoestore.netlify.app).
 
+You can login with ADMIN -> Dashboard
+email: admin@gmail.com
+password: 123456a
+
+You can test payment with PayPal
+email: tdshoestore21@gmail.com
+password: 01626274320a
+
 ## Available Scripts
 
 In the project directory, you can run:
